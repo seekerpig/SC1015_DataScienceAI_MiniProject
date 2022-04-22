@@ -14,7 +14,7 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Files
 - TelcoCus.csv - original telco file with no data preparation  
-- cleanedTelco.csv - telco file with data preparation applied (this file is then used for classification and clustering notebook)
+- cleanedTelco.csv - telco file with data preparation applied (this file is then used for classification notebook)
 - 1_EDA_DataPrep.ipynb - First jupyter notebook to run - for data preparation, EDA and basic analysis
 - 2_ClassificationModels.ipynb - Second Jupyter Notebook to Run - for Classification Modelling
 - 3_ClusteringModel.ipynb - Third Jupyter Notebook to Run - For Clustering Modelling (Segmentation)
