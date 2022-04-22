@@ -13,18 +13,21 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 - Customer churn is a major problem for companies and it is important that we understand our customers and also predict whether if they will churn in advance to retain them. (Retention is better than acquisition)
 
 ## Files
-TelcoCus.csv - original telco file with no data preparation
+TelcoCus.csv - original telco file with no data preparation  
 cleanedTelco.csv - telco file with data preparation applied (this file is then used for classification and clustering notebook)
-ClassificationModels.ipynb - Notebook for Classification Modelling 
+1_EDA_DataPrep.ipynb - First jupyter notebook to run - for data preparation, EDA and basic analysis
+2_ClassificationModels.ipynb - Second Jupyter Notebook to Run - for Classification Modelling
+3_ClusteringModel.ipynb - Third Jupyter Notebook to Run - For Clustering Modelling (Segmentation)
+
 
 # Setup and Models
-## Data Preparation
+### Data Preparation
 - Removed Null variables and useless columns.
 - Created values for missing variables based off on calculation from existing variables
 - Transforming Data types (e.g. int to object)
 - One-Hot-Encoding
 
-## Classification (2 Attempts)
+### Classification (2 Attempts)
 Attempt 1 uses standard train test split and default models with little to no tuning.
 Attempt 2 uses GridSearchCV to tune hyper parameters and also kfold cross validation to train and test data.
 - Decision Tree
@@ -32,7 +35,7 @@ Attempt 2 uses GridSearchCV to tune hyper parameters and also kfold cross valida
 - Random Forest
 - Support Vector Classifier
 
-## Clustering
+### Clustering
 - Kprototypes
 
 
