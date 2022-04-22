@@ -44,9 +44,9 @@ Attempt 2 uses GridSearchCV to tune hyper parameters and also kfold cross valida
 
 
 ## Team Members
-Soh Zu Wei - Classification Models, GridSearchCV, K-Fold and One-Hot-Encoding  
+Soh Zu Wei - Classification Models (with gridsearchcv, kfold & one-hot-encoding)
 Sanskkriti - Data Preparation and Exploratory Data Analysis  
-Jue Lin - Clustering (Kprototypes)  
+Jue Lin - Clustering Models (Kprototypes)  
 
 ## Conclusion / Insights
 - The four classification models provide similar accuracy results but based off on consistency, the two best classification model that the telco can use is Logistic Regression and Support Vector Classifier (median accuracy of 0.8)
