@@ -57,6 +57,15 @@ Jue Lin - Clustering Models (Kprototypes)
 - For clustering, based on the given data, we can effectively segment the customers into 4 types (low spenders, average spenders, high spenders with high average tenture and high spenders with low average tenure)
 - Since each cluster have a distinct trait, This also means that telco can understand their different customer segments which helps in creating specific targeted marketing strategies for each of them (which is more effective than running a general fit all marketing strategy)
 
+##References
+Importance of Churn Rate:  
+https://www.zendesk.com/sg/blog/customer-churn-rate/#:~:text=Why%20is%20customer%20churn%20rate,impact%20on%20its%20bottom%20line  
+
+Retention > Acquisition:
+https://www.heavy.ai/use-case/customer-churn-analysis
+
+
+
 
 
 
