@@ -28,8 +28,9 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 - One-Hot-Encoding
 
 ### Exploratory Data Analysis
--
--
+- Explored the relationship between Churn and other variables in the dataset
+- Analysed patterns between relationship and came up with some basic insights and analysis.
+- KDEplots, boxplots, violin plots, pie charts and bar graphs are used.
 
 ### Classification (2 Attempts)
 Attempt 1 uses standard train test split and default models with little to no tuning.
