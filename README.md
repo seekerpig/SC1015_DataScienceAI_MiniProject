@@ -50,8 +50,8 @@ Attempt 2 uses GridSearchCV to tune hyper parameters and also kfold cross valida
 
 ## Team Members
 Sanskkriti - Problem Motivation, Data Preparation, Cleaning and Exploratory Data Analysis  
-Soh Zu Wei - Classification Models (with gridsearchcv, kfold & one-hot-encoding, github, edit video)   
-Jue Lin - Clustering Models (Kprototypes, elbow method, silhouette, clustering strategies) 
+Soh Zu Wei - Classification Models (with GridSearchCV, KFold & One-Hot-Encoding), Github, Edit Video   
+Jue Lin - Clustering Models (Kprototypes, Elbow Method, Average Silhouette Method), Clustering Strategies 
 
 
 ## Conclusion / Insights
