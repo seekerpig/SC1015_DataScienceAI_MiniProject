@@ -18,6 +18,8 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 - 1_EDA_DataPrep.ipynb - First jupyter notebook to run - for data preparation, EDA and basic analysis
 - 2_ClassificationModels.ipynb - Second Jupyter Notebook to Run - for Classification Modelling
 - 3_ClusteringModel.ipynb - Third Jupyter Notebook to Run - For Clustering Modelling (Segmentation)
+- presentation_no extra slides.pptx - Set of Slides Used For Presentation  
+- presentation_withextraslides.pptx - Set of Slides Used For Presentation + Additional Materials (if prof need more info)  
 
 checkpoint files are also provided since some of the jupyter notebook may take awhile to fully run due to computation times.  
 
