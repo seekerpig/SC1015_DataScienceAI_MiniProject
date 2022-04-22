@@ -43,19 +43,21 @@ Attempt 2 uses GridSearchCV to tune hyper parameters and also kfold cross valida
 - Support Vector Classifier
 
 ### Clustering
-- Kprototypes
+- Kprototypes (for categorical + numerical variables)
+- Elbow Method + Silhouette to find optimal clusters
+- Clustered into 4 groups (with insights and recommendations)
 
 
 ## Team Members
 Soh Zu Wei - Classification Models (with gridsearchcv, kfold & one-hot-encoding)  
 Sanskkriti - Data Preparation and Exploratory Data Analysis  
-Jue Lin - Clustering Models (Kprototypes)  
+Jue Lin - Clustering Models (Kprototypes, elbow method, silhouette)  
 
 ## Conclusion / Insights
-- The four classification models provide similar accuracy results but based off on consistency, the two best classification model that the telco can use is Logistic Regression and Support Vector Classifier (median accuracy of 0.8)
-- This implies that given a set of customer data, the telco will be able to predict whether the customer will churn or not with a good amount of accuracy and consistency, and thereby, this will help them to find out which customer are likely to churn. By finding out the customers that are likely to churn, the telco can actively work towards trying to retain these customers who are more likely to churn than those who are not.
+- The four classification models provide similar accuracy results but using gridsearchcv and k-fold cross validation, the two best classification model that the telco can use is Logistic Regression and Support Vector Classifier (median accuracy of ~0.8) with good consistency across runs.
+- With the classification models, given a set of customer data, the telco will be able to predict whether the customer will churn or not with a good amount of accuracy and consistency, and thereby, this will help them to find out which customer are likely to churn. By finding out the customers that are likely to churn, the telco can actively work towards trying to retain these customers who are more likely to churn than those who are not. (Retention is better than acquisition)
 - For clustering, based on the given data, we can effectively segment the customers into 4 types (low spenders, average spenders, high spenders with high average tenture and high spenders with low average tenure)
-- Since each cluster have a distinct trait, This also means that telco can understand their different customer segments which helps in creating specific targeted marketing strategies for each of them (which is more effective than running a general fit all marketing strategy)
+- Since each cluster have a distinct trait, This also means that telco can understand their different customer segments which helps in creating specific targeted marketing strategies for each of them (which is more effective than running a general one-fit-all marketing strategy)
 
 ## References
 ### Importance of Churn Rate:  
