@@ -19,6 +19,8 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 - 2_ClassificationModels.ipynb - Second Jupyter Notebook to Run - for Classification Modelling
 - 3_ClusteringModel.ipynb - Third Jupyter Notebook to Run - For Clustering Modelling (Segmentation)
 
+checkpoint files are also provided since some of the jupyter notebook may take awhile to fully run due to computation times.  
+
 
 # Setup and Models
 ### Data Preparation
