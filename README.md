@@ -69,6 +69,10 @@ https://www.heavy.ai/use-case/customer-churn-analysis
 ### Dataset:  
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
+### Inspirations:
+https://www.analyticsvidhya.com/blog/2022/01/churn-analysis-of-a-telecom-company/  
+https://towardsdatascience.com/end-to-end-machine-learning-project-telco-customer-churn-90744a8df97d  
+
 ### Learning Clustering:
 https://python.plainenglish.io/data-science-project-clustering-mixed-data-7d5fd6e7f047
 
