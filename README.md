@@ -78,6 +78,8 @@ https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed
 
 https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction
 
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html  
+
 
 
 
