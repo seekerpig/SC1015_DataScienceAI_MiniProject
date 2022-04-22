@@ -29,7 +29,7 @@ checkpoint files are also provided since some of the jupyter notebook may take a
 - Removed Null variables and useless columns.
 - Created values for missing variables based off on calculation from existing variables
 - Transforming Data types (e.g. int to object)
-- One-Hot-Encoding
+
 
 ### Exploratory Data Analysis
 - Explored the relationship between Churn and other variables in the dataset
@@ -37,6 +37,7 @@ checkpoint files are also provided since some of the jupyter notebook may take a
 - KDEplots, boxplots, violin plots, pie charts and bar graphs are used.
 
 ### Classification (2 Attempts)
+Performed One-Hot-Encoding to convert variables.
 Attempt 1 uses standard train test split and default models with little to no tuning.  
 Attempt 2 uses GridSearchCV to tune hyper parameters and also kfold cross validation to train and test data.
 - Decision Tree
