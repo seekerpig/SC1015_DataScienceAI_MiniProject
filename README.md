@@ -60,25 +60,21 @@ Jue Lin - Clustering Models (Kprototypes, elbow method, silhouette)
 - Since each cluster have a distinct trait, This also means that telco can understand their different customer segments which helps in creating specific targeted marketing strategies for each of them (which is more effective than running a general one-fit-all marketing strategy)
 
 ## References
-### Importance of Churn Rate:  
 https://www.zendesk.com/sg/blog/customer-churn-rate/#:~:text=Why%20is%20customer%20churn%20rate,impact%20on%20its%20bottom%20line  
 
-### Retention > Acquisition:
-https://www.heavy.ai/use-case/customer-churn-analysis
+https://www.heavy.ai/use-case/customer-churn-analysis  
+ 
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn  
 
-### Dataset:  
-https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+https://www.analyticsvidhya.com/blog/2022/01/churn-analysis-of-a-telecom-company/   
 
-### Inspirations:
-https://www.analyticsvidhya.com/blog/2022/01/churn-analysis-of-a-telecom-company/  
-https://towardsdatascience.com/end-to-end-machine-learning-project-telco-customer-churn-90744a8df97d  
+https://towardsdatascience.com/end-to-end-machine-learning-project-telco-customer-churn-90744a8df97d   
 
-### Learning Clustering:
-https://python.plainenglish.io/data-science-project-clustering-mixed-data-7d5fd6e7f047
+https://python.plainenglish.io/data-science-project-clustering-mixed-data-7d5fd6e7f047  
 
-https://github.com/zachzazueta/telecom_churn_project/blob/master/Notebook%202%20-%20Cleaning%20and%20KPrototypes2.ipynb
+https://github.com/zachzazueta/telecom_churn_project/blob/master/Notebook%202%20-%20Cleaning%20and%20KPrototypes2.ipynb  
 
-https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical
+https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical  
 
 
 
