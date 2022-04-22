@@ -74,7 +74,9 @@ https://python.plainenglish.io/data-science-project-clustering-mixed-data-7d5fd6
 
 https://github.com/zachzazueta/telecom_churn_project/blob/master/Notebook%202%20-%20Cleaning%20and%20KPrototypes2.ipynb  
 
-https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical  
+https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical
+
+https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction
 
 
 
