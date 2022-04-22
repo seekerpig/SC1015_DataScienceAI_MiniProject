@@ -67,6 +67,13 @@ https://www.heavy.ai/use-case/customer-churn-analysis
 ### Dataset:  
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
+### Learning Clustering:
+https://python.plainenglish.io/data-science-project-clustering-mixed-data-7d5fd6e7f047
+
+https://github.com/zachzazueta/telecom_churn_project/blob/master/Notebook%202%20-%20Cleaning%20and%20KPrototypes2.ipynb
+
+https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical
+
 
 
 
