@@ -45,7 +45,7 @@ Attempt 2 uses GridSearchCV to tune hyper parameters and also kfold cross valida
 
 ## Team Members
 Soh Zu Wei - Classification Models, GridSearchCV, K-Fold and One-Hot-Encoding  
-Sankriti - Data Preparation and Exploratory Data Analysis  
+Sanskkriti - Data Preparation and Exploratory Data Analysis  
 Jue Lin - Clustering (Kprototypes)  
 
 ## Conclusion / Insights
