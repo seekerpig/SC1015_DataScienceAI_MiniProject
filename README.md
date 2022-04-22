@@ -33,7 +33,7 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 - KDEplots, boxplots, violin plots, pie charts and bar graphs are used.
 
 ### Classification (2 Attempts)
-Attempt 1 uses standard train test split and default models with little to no tuning.
+Attempt 1 uses standard train test split and default models with little to no tuning.  
 Attempt 2 uses GridSearchCV to tune hyper parameters and also kfold cross validation to train and test data.
 - Decision Tree
 - Logistic Regression
