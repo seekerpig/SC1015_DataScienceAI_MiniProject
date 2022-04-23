@@ -37,7 +37,7 @@ checkpoint files are also provided since some of the jupyter notebook may take a
 - KDEplots, boxplots, violin plots, pie charts and bar graphs are used.
 
 ### Classification (2 Attempts)
-Performed One-Hot-Encoding to convert variables.
+Performed One-Hot-Encoding to convert variables.  
 Attempt 1 uses standard train test split and default models with little to no tuning.  
 Attempt 2 uses GridSearchCV to tune hyper parameters and also kfold cross validation to train and test data.
 - Decision Tree
